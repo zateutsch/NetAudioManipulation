@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AudioManipuation (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AudioManipuation (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
